@@ -1,14 +1,1 @@
-# Eight queens puzzle
-
-Ex. run:
-
-```
-. . . Q . . . . 
-. Q . . . . . . 
-. . . . Q . . . 
-. . . . . . . Q 
-. . . . . Q . . 
-Q . . . . . . . 
-. . Q . . . . . 
-. . . . . . Q .
-```
+# mHVJvjTTOH8HB9hIR8i6xf0hSV3fyvORxUDPoKWd0oFljhVIjkhPYJ9IsVFohy9R
