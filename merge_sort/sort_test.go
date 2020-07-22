@@ -46,6 +46,10 @@ type testMergeSort struct {
 func TestMergeSort(t *testing.T) {
 	testCases := []testMergeSort{
 		{
+			a:      []int{},
+			result: []int{},
+		},
+		{
 			a:      []int{1},
 			result: []int{1},
 		},
