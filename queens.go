@@ -49,7 +49,7 @@ func boardValid(board [][]string) bool {
 			for {
 				i2--
 				k2--
-				if i2 < 0 || k2 <= 0 {
+				if i2 < 0 || k2 < 0 {
 					break
 				}
 				if board[i2][k2] != "" {
